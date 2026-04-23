@@ -5,7 +5,9 @@
     "store": "https://store.evilmc.us",
     "description": "EvilMC is a network focused on PvP like UHC, HCF & Kitmap.",
     "addresses": [
-        "evilmc.us"
+        "evilmc.us",
+        "reals.lat",
+        "rival.lat"
     ],
     "primaryAddress": "evilmc.us",
     "primaryColor": "#BA0202",
@@ -30,6 +32,9 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "EvilMC"
+        "twitter": "EvilmcOfficial",
+        "youtube": "evilmcnetwork",
+        "tiktok": "evilmcnetwork",
+        "discord": "https://discord.evilmc.us"
     }
 }
